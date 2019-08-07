@@ -94,7 +94,7 @@ public class GoodbyeServlet extends HttpServlet {
     }
     
     protected String getBackgroundImageURL(){
-        return("images/Black_desert.jpg");
+        return("images/3d-cubes.jpg");
     }
     
     protected String getHTMLHead(){
